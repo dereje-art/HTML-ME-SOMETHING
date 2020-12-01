@@ -1,0 +1,62 @@
+body {
+  width: 100%;
+  max-width: 1200px;
+  margin: 10px;
+  background-color: rgb(231, 228, 222);
+}
+div {
+  margin: 0px;
+}
+header {
+  padding: 100;
+}
+h1 {
+  color: rgb(6, 37, 6);
+}
+p {
+  background-color: rgb(144, 175, 157);
+  margin: 0%;
+  left: 20px;
+  text-align: justify;
+}
+.container {
+  border: 1px solid rgb(229, 143, 143);
+  margin: 10px;
+  background-color: rgb(145, 187, 226);
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+#Ad {
+  background-color: rgb(136, 136, 202);
+  text-align: justify;
+  text-align: left;
+}
+#Ak {
+  background-color: burlywood;
+  text-align: justify;
+  text-align: left;
+}
+#Bahir {
+  background-color: burlywood;
+  text-align: justify;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10;
+  overflow: hidden;
+  background-color: rgb(158, 122, 122);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: blue;
+}
